@@ -12,7 +12,7 @@ Bước 2:
 Lặp lại bước 1 và 2 cho các phần tử nhỏ hơn và lớn hơn phần tử mốc
 Độ Phức Tạp Của Thuật Toán
 - O(n*log(n)) --> O(n2) 
-(phụ thuộc vào cách chọn phần tử làm mốc)
+(phụ thuộc vào cách chọn phần tử làm mốc) 
 
 
 
