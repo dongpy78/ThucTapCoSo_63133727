@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ### ⭐ Thuật Toán QuickSort
-### Cách Hoạt Động Của Thuật Toán QuickSort:
+### 💻 Cách Hoạt Động Của Thuật Toán QuickSort:
 Xét dãy có n phần tử cần sắp xếp tăng dần (hoặc giảm dần).
 ### Bước 1:
 - Chọn phần tử làm mốc.
@@ -14,16 +14,14 @@ Xét dãy có n phần tử cần sắp xếp tăng dần (hoặc giảm dần).
 - (phụ thuộc vào cách chọn phần tử làm mốc)
 
 ### ⭐ Thuật Toán HeapSort
-### Cách Hoạt Động Của Thuật Toán HeapSort:
-- Là sự cải tiến tốt hơn của giải thuật Selection Sort
-- Xét dãy n phần tử cần sắp xếp tăng dần (hoặc giảm dần)
-- Bước 1: Xếp các phần tử vào cây nhị phân
-- Bước 2: Chọn phần tử lớn nhất từ cây nhị phân
-- Bước 3: Chèn phần tử lớn nhất đó vào phần đã sắp xếp 
-- Bước 4: Tạo lại cây
-- Lặp lại cho đến hết dãy
-  <p>Helloooô</p>
-
+### 💻 Cách Hoạt Động Của Thuật Toán HeapSort:
+<p>- Là sự cải tiến tốt hơn của giải thuật Selection Sort</p>
+<p>- Xét dãy n phần tử cần sắp xếp tăng dần (hoặc giảm dần)</p>
+<p>- Bước 1: Xếp các phần tử vào cây nhị phân</p>
+<p>- Bước 2: Chọn phần tử lớn nhất từ cây nhị phân</p>
+<p>- Bước 3: Chèn phần tử lớn nhất đó vào phần đã sắp xếp </p>
+<p>- Bước 4: Tạo lại cây</p>
+<p>- Lặp lại cho đến hết dãy</p>
 
 
 
