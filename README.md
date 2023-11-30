@@ -1,11 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ### ⭐ Thuật Toán QuickSort
-<h6>💻 Cách Hoạt Động Của Thuật Toán Sắp Xếp Phân Đoạn (QuickSort)</h6>
+### 💻 Cách Hoạt Động Của Thuật Toán Sắp Xếp Phân Đoạn (QuickSort)
 <p>Xét dãy có n phần tử cần sắp xếp tăng dần (hoặc giảm dần).</p>
 
 ### Bước 1:
 <p>- Chọn phần tử làm mốc.</p>
+
 ### Bước 2:
 <p>- Chuyển các phần tử lớn hơn phần tử mốc sang một bên.</p>
 <p>- Chuyển các phần tử nhỏ hơn phần tử mốc sang một bên.</p>
