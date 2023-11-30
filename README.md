@@ -10,7 +10,7 @@
 ### Bước 2:
 <p>- Chuyển các phần tử lớn hơn phần tử mốc sang một bên.</p>
 <p>- Chuyển các phần tử nhỏ hơn phần tử mốc sang một bên.</p>
-<p>Lặp lại bước 1 và 2 cho các phần tử nhỏ hơn và lớn hơn phần tử mốc.</p>
+<p>Lặp lại bước 1 và 2 cho các phần tử nhỏ hơn và lớn hơn phần tử mốc.</p> 
 
 ### 📈 Độ Phức Tạp Của Thuật Toán
 <p>
