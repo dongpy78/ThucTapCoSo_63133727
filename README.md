@@ -3,15 +3,15 @@
 ## ⭐ Thuật Toán QuickSort
 Cách Hoạt Động Của Thuật Toán QuickSort:
 Xét dãy có n phần tử cần sắp xếp tăng dần (hoặc giảm dần).
-Bước 1: 
-Chọn phần tử làm mốc.
-Bước 2: 
-Chuyển các phần tử lớn hơn phần tử mốc sang một bên.
-Chuyển các phần tử nhỏ hơn phần tử mốc sang một bên.
-Lặp lại bước 1 và 2 cho các phần tử nhỏ hơn và lớn hơn phần tử mốc.
-Độ Phức Tạp Của Thuật Toán.
-O(n*log(n)) --> O(n2). 
-(phụ thuộc vào cách chọn phần tử làm mốc). 
+1. Bước 1: 
+- Chọn phần tử làm mốc.
+2. Bước 2: 
+- Chuyển các phần tử lớn hơn phần tử mốc sang một bên.
+- Chuyển các phần tử nhỏ hơn phần tử mốc sang một bên.
+3. Lặp lại bước 1 và 2 cho các phần tử nhỏ hơn và lớn hơn phần tử mốc.
+4. Độ Phức Tạp Của Thuật Toán
+- O(n*log(n)) --> O(n2)
+- (phụ thuộc vào cách chọn phần tử làm mốc)
 
 
 
