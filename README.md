@@ -2,7 +2,7 @@
 
 ### ⭐ Thuật Toán QuickSort
 ### 
-<h6>💻 Cách Hoạt Động Của Thuật Toán Sắp Xếp Phân Đoạn (QuickSort)</h6>
+<h6 style="font-size=12px;">💻 Cách Hoạt Động Của Thuật Toán Sắp Xếp Phân Đoạn (QuickSort)</h6>
 <p>Xét dãy có n phần tử cần sắp xếp tăng dần (hoặc giảm dần).</p>
 
 ### Bước 1:
