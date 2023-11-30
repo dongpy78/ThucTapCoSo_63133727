@@ -1,62 +1,12 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+# Sắp xếp nhanh (Quick Sort)
 
-### ⭐ Thuật Toán QuickSort
-### 💻 Cách Hoạt Động Của Thuật Toán Sắp Xếp Phân Đoạn (QuickSort)
-<p>Xét dãy có n phần tử cần sắp xếp tăng dần (hoặc giảm dần).</p>
+Sắp xếp nhanh là một giải thuật chia để trị.
+Sắp xếp nhanh chia một mảng lớn thành hai mảng con nhỏ hơn: mảng các phần tử nhỏ và các phần tử lớn. Sắp xếp nhanh có thể thiết kế bằng đệ quy.
+Các bước : 
+1. Chọn một phần tử gọi là chốt, từ mảng.
+2. Phân vùng: sắp xếp lại thứ tự mảng để tất cả các phần tử có giá trị nhỏ hơn chốt đều nằm ở trước chốt, trong khi các phần tử có giá trị lớn hơn chốt đều đứng sau nó (các giá trị bằng chốt có thể nằm ở trước hay sau đều được). Sau khi phân vùng, chốt sẽ ở vị trí cuối cùng cùng nó. Đây được gọi là thao tác phân vùng.
+3. Áp dụng đệ quy các bước trên cho mảng con gồm các phần tử có giá trị nhỏ hơn và cả mảng con gồm các phần tử có giá trị lớn hơn.
 
-### Bước 1:
-<p>- Chọn phần tử làm mốc.</p>
-
-### Bước 2:
-<p>- Chuyển các phần tử lớn hơn phần tử mốc sang một bên.</p>
-<p>- Chuyển các phần tử nhỏ hơn phần tử mốc sang một bên.</p>
-<p>Lặp lại bước 1 và 2 cho các phần tử nhỏ hơn và lớn hơn phần tử mốc.</p> 
-
-### 📈 Độ Phức Tạp Của Thuật Toán
-<p>
- O(n*log(n)) --> O(n2)
- (phụ thuộc vào cách chọn phần tử làm mốc)
-</p>
- 
-### ⭐ Thuật Toán Sắp Xếp Vun Đồng (HeapSort)
-### 💻 Cách Hoạt Động Của Thuật Toán HeapSort:
-<p>- Là sự cải tiến tốt hơn của giải thuật Selection Sort</p>
-<p>- Xét dãy n phần tử cần sắp xếp tăng dần (hoặc giảm dần)</p>
-<p>- Bước 1: Xếp các phần tử vào cây nhị phân</p>
-<p>- Bước 2: Chọn phần tử lớn nhất từ cây nhị phân</p>
-<p>- Bước 3: Chèn phần tử lớn nhất đó vào phần đã sắp xếp </p>
-<p>- Bước 4: Tạo lại cây</p>
-<p>- Lặp lại cho đến hết dãy</p>
-
-### Phân Loại
-<p>- Max heap: Khóa nút cha luôn lớn hơn khóa nút con</p>
-<p>- Min heap: Khóa nút cha luôn nhỏ hơn khóa nút con</p>
-
- ### 📈 Độ Phức Tạp Của Thuật Toán
-<p>
- - O(n*log(n))
-</p>
-
-### ⭐ Thuật Toán Sắp Xếp Hòa Nhập (Merge Sort)
-### 💻 Cách Hoạt Động Của Thuật Toán Merge Sort:
-### Bước 1:
-<p>- Tách dãy cần sắp xếp thành từng phần tử riêng rẽ</p>
-
-### Bước 2:
-<p>- Lần lượt trộn (ghép) k = 2 nhóm phần tử kề nhau lại </p>
-<p>- Sắp xếp tăng dần (giảm dần) từng nhóm </p>
-<p>Lặp lại bước 2 với k = k * 2</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
+Ảnh động mô tả giải thuật sắp xếp nhanh, dòng ngang là giá trị chốt.
+![Quicksort](https://upload.wikimedia.org/wikipedia/commons/6/6a/Sorting_quicksort_anim.gif)
 
