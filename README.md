@@ -12,7 +12,7 @@ Xét dãy có n phần tử cần sắp xếp tăng dần (hoặc giảm dần).
 ### **Độ Phức Tạp Của Thuật Toán**
 - O(n*log(n)) --> O(n2)
 - (phụ thuộc vào cách chọn phần tử làm mốc)
-
+ 
 ### ⭐ Thuật Toán HeapSort
 ### 💻 Cách Hoạt Động Của Thuật Toán HeapSort:
 <p>- Là sự cải tiến tốt hơn của giải thuật Selection Sort</p>
