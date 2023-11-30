@@ -1,4 +1,4 @@
-# Sắp xếp nhanh (Quick Sort)
+# Giải Thuật Sắp Xếp Phân Đoạn (Quick Sort)
 
 Sắp xếp nhanh là một giải thuật chia để trị.
 Sắp xếp nhanh chia một mảng lớn thành hai mảng con nhỏ hơn: mảng các phần tử nhỏ và các phần tử lớn. Sắp xếp nhanh có thể thiết kế bằng đệ quy.
@@ -26,7 +26,7 @@ Các bước :
 - [YouTube](https://www.youtube.com/watch?v=SLauY6PpjW4&index=28&list=PLLXdhg_r2hKA7DPDsunoDZ-Z769jWn4R8)
 
 
-# Sắp xếp trộn (Merge Sort)
+# Giải Thuật Sắp Xếp Hòa Nhập (Merge Sort)
 
 Trong khoa học máy tính, sắp xếp trộn là một thuật toán sắp xếp đa dụng có hiệu quả rất cao. Nó được xếp vào thể loại sắp xếp so sánh. Trong hầu hết trường hợp nó sẽ bảo tồn thứ tự đầu vào của các phần tử bằng nhau sau khi sắp xếp. Sắp xếp trộn là một ví dụ về thuật toán chia để trị do John von Neumann phát minh năm 1945.
 
@@ -49,10 +49,7 @@ Sắp xếp trộn bằng đệ quy trên một mảng 7 phần tử. Đây là 
 - [Wikipedia](https://en.wikipedia.org/wiki/Merge_sort)
 - [YouTube](https://www.youtube.com/watch?v=KF2j-9iSf4Q&index=27&list=PLLXdhg_r2hKA7DPDsunoDZ-Z769jWn4R8)
 
-
-
-
-# Sắp xếp vun đống (Heap Sort)
+# Giải Thuật Sắp Xếp Vun Đống (Heap Sort)
 
 Sắp xếp vun đống thuộc loại sắp xếp so sánh.
 Sắp xếp vun đống có thể coi là một cải tiến của sắp xếp chọn: nó chia đầu vào thành vùng đã sắp xếp và vùng chưa được sắp xếp, sau đó thu nhỏ vùng chưa sắp xếp bằng cách lấy phần tử lớn nhất và thêm nó vào mảng đã sắp xếp. Lặp đi lặp lại nhiều lần để có được mảng đã sắp xếp hoàn toàn. Cải tiến ở đây nằm ở việc sử dụng cấu trúc dữ liệu heap chứ vẫn là tìm kiếm giá trị lớn nhất theo thời gian tuyến tính.
