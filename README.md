@@ -1,6 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ## ⭐ Thuật Toán QuickSort
+
 Cách Hoạt Động Của Thuật Toán QuickSort:
 - Xét dãy có n phần tử cần sắp xếp tăng dần (hoặc giảm dần) 
 Bước 1: 
