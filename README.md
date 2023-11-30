@@ -1,8 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ### ⭐ Thuật Toán QuickSort
-### 
-<h6 style="font-size=18px;">💻 Cách Hoạt Động Của Thuật Toán Sắp Xếp Phân Đoạn (QuickSort)</h6>
+<h6>💻 Cách Hoạt Động Của Thuật Toán Sắp Xếp Phân Đoạn (QuickSort)</h6>
 <p>Xét dãy có n phần tử cần sắp xếp tăng dần (hoặc giảm dần).</p>
 
 ### Bước 1:
