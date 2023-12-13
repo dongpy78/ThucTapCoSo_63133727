@@ -1,0 +1,16 @@
+a = new AudioContext(); // browsers limit the number of concurrent audio contexts, so you better re-use'em
+
+// Được dùng để phát ra âm thanh trong ứng dụng
+function beep(vol, freq, duration) {
+  console.log({ vol, freq, duration });
+  v = a.createOscillator();
+  u = a.createGain();
+  v.connect(u);
+  v.frequency.value = freq;
+  v.type = "square";
+  u.connect(a.destination);
+  u.gain.value = vol * 0;
+  v.start(a.currentTime);
+  v.stop(a.currentTime + duration * 0.001);
+  u.gain.setValueAtTime(0, a.currentTime + duration * 0.001);
+}
